@@ -1,4 +1,3 @@
-// // I wish you good luck and happy coding 🥰🤠🥳🥳💯💯
 // {/* <div class="monsters">
 // <div class="monster">
 //   <img src="https://robohash.org/6?set=set2" alt="MD. Sakib Khan" />
